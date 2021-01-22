@@ -4,7 +4,7 @@ This is a collection of STL and OBJ files of a Ruddock House plaque for 3D print
 
 The `double` and `separate` files are intended for dual-color printing with a dual extrusion merge, while the `single` file can be printed in one color and post-processed, or [printed with the color swapped mid-print](https://www.thingiverse.com/groups/ruddock/forums/3d-printing/topic:40223).
 
-Please note that the `separate` files are two whole objects, so (possibly depending on your slicer) the middle layers between the bottom of the `top` and the top of the `base` will be printed as whole layers. The `double` files are "hollow" and so infill will fill the gap between the bottom and the top.
+Please note that the `separate` files are two whole objects, so (possibly depending on your slicer) the middle layers between the bottom of the `top` and the top of the `base` will be printed as whole layers. The `double` files are "hollow" and so infill will fill the gap between the bottom and the top, as if the crest were a single solid printed with infill.
 
 &nbsp;
 
