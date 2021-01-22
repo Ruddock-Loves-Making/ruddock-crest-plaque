@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=/img/crest-blue-sq.jpg width="328" height="328"/><br>
+</p>
+
 # Ruddock Crest Plaque
 
 This is a collection of STL and OBJ files of a plaque featuring the Ruddock crest, intended for 3D printing. The original design can be found on [TinkerCad](https://www.tinkercad.com/things/eQNwdROub6r ), with some files also available on [Thingiverse](https://www.thingiverse.com/thing:3127481).
