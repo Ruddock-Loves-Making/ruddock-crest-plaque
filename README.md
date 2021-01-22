@@ -10,6 +10,8 @@ The `double` and `separate` files are intended for dual-color printing with a du
 
 Please note that the `separate` files are two whole objects, so (possibly depending on your slicer) the middle layers between the bottom of the `top` and the top of the `base` will be printed as whole layers. The `double` files are "hollow" and so infill will fill the gap between the bottom and the top, as if the crest were a single solid printed with infill.
 
+Copious amounts of brim are recommended to ensure adhesion when printing. A wipe-and-prime tower may be desirable for dual extrusion prints.
+
 &nbsp;
 <p align="center">
   <img src=/img/crest-blue.jpg width="328" height="246"/><br>
@@ -19,7 +21,7 @@ Please note that the `separate` files are two whole objects, so (possibly depend
 &nbsp;
 <p align="center">
   <img src=/img/crest-black.jpg width="328" height="328" /><br>
-  <b>A crest in black, printed during Rotation 2019..</b><br>
+  <b>A crest in black, printed during Rotation 2019.</b><br>
 </p>
 &nbsp;
 <p align="center">
